@@ -1,0 +1,55 @@
+---
+title: "Self-Obsession Is Strangely Self-Effacing"
+date: 2010-01-01
+categories: 
+  - "set-1"
+tags: 
+  - "blogging"
+  - "pr"
+  - "role-of-journalism"
+coverImage: "proof-reading-bx-e1588362002250.jpg"
+---
+
+**Brendan O’Neill**
+
+<!--more-->
+
+_Proof_ 2010: Journalists Defending Journalism Set 1, January 2010 The Scale and Origins of the Threat to Journalism
+
+Ironically, to rediscover how important they are, journalists first need to become a bit meeker.
+
+Reading some of the contemporary complaints about the state of journalism, one could be forgiven for thinking that the news profession is being undermined from without; that there is a multitude of bedroom bloggers, evil PR companies and recessionary trends lined up against the world of journalism, throwing intellectual or economic hand grenades in its general direction.
+
+This gets things the wrong way around. Of course it’s true that the recession has hit the newspaper industry hard, and that PR companies – as always – will do anything short of break the law to coax a journalist to write a fluff piece or promote a product. But the idea that journalism’s woes have been brought about by external threats overlooks the key problem of internal corrosion – of news values, of objectivity, of truth – that predates the emergence of the blogosphere and the onset of economic crisis.
+
+Many now argue that the economic downturn is badly affecting the news industry, specifically the ability of the print media to devote resources to the gathering, analysis and dissemination of stories. There are even demands that the state should bail out newspapers in the same way it has bailed out banks. This overlooks the potentially profound problems associated with giving the state a bigger stake in the press; as David Newell of the Newspaper Society rightly observed of demands for local newspapers to be given state funding: ‘The fear is that with subsidy comes content control or regulation – particularly if it comes from the local authority.’
+
+**Self-Inflicted Wounds**
+
+More fundamentally, however, the notion that recent recessionary trends are primarily to blame for the crisis of newsgathering absolves the media themselves of their responsibility for denigrating the nature and values of news over the past 10 to 15 years. Many concerned commentators are effectively projecting their own inability to ‘do’ serious news on to the spectre of the belt-tightening downturn; they see in the recession a catch-all explanation for the powerful sense of crisis and indirection that was already afflicting much of the newspaper industry.
+
+In truth, a disdain for cool, objective, connective news reporting – or at least a belief that such journalistic activity was no more special or important than publishing personal diaries, lifestyle advice or celebrity interviews – has infused the media for a decade or more. Indeed, the newspaper industry’s own voluntary reallocation of resources away from news and towards the creation of accompanying lifestyle magazines, advice pages and more and more opinion (five pages in _The Times_ today, compared to one in the past) was done without any pressure of recession. Rather it reflected existential issues, a crisis of purpose within the press itself, which increasingly saw itself, less as the maker and breaker of news and informer of the public, and more as a space in which people might mingle, make connections, see their own problems reflected and righted.
+
+The internal, pre-recession crisis of newsgathering can be seen in the media’s own problematisation of ‘old-fashioned news’, by which they meant the ideals of objectivity and truth. In the 1990s in particular (though the crisis predated that decade in various ways), journalists came under attack, and attacked themselves, for being too ‘aloof’, ‘cold’, ‘distant from events’. Kate Adie was chastised for being ‘forensic’ in her reporting on the Dunblane massacre in 1996; Martin Bell called for a new journalism that ‘cares as well as knows’. Behind these arguments there lurked a deeper discomfort with objectivity in news, even a sense that objectivity was not only undesirable, but impossible. As Christopher Dunkley warned, disdain for detachment had the potential to moralise, and thus pollute, the world of news: ‘From \[here\], it is only a step, and perhaps not a conscious one, to the selection and manipulation of the facts to favour one side.’
+
+The recession has undoubtedly heaped pressure on newspapers; but it will not do to blame the recession for preventing newspapers from carrying out the most costly aspect of their work: local, national and foreign news reporting. A newspaper industry that has a more coherent sense of purpose, and faith in its public role as a disseminator of the truth as it understands it, should be able, even in dire economic circumstances, to reallocate resources to its core purpose. One must ask: is it funds that are lacking, or vision?
+
+**The Folk Devils of PR**
+
+Likewise, demonising PR companies has become another way for journalists and editors to depict the crisis of the media as a product primarily of external pressures. It is commonly argued now that a combination of ruthlessness on the part of PR companies and opportunism on the part of some reporters is having a detrimental impact on journalism, giving rise to a new breed of journalist more interested in pleasing his publisher’s clients with simplistic black-and-white reporting than in grappling with hard, often uncomfortable facts, and allowing newspapers to become mouthpieces for big corporations, political lobbyists, or celebrity promoters.
+
+In his much-discussed book _Flat Earth News_, Nick Davies explores, amongst other things, the role of PR in poisoning the modern media. However, the focus on PR tells us only half the story – if that; it might only be an eighth or tenth of the story. A far more decisive factor, and one that it would pay to explore in depth, has been the _willingness_ of journalists to become mouthpieces for campaigns, especially of the good-and-evil, no-room-for-confusion variety.
+
+For example, Davies’ theory that a corrosive relationship between PR and journalism is ruining the media cannot explain why journalists put themselves at the forefront of promoting something like Tony Blair’s bombing of Yugoslavia in 1999. There was no PR company bombarding them with faxes and emails, yet they repeated all of Blair’s claims virtually without question. Nor can it explain the role of journalism in the MMR debacle of the late 1990s and early 2000s. Again, there was no well-oiled PR machine promoting the bogus MMR-autism link, just a group of isolated researchers who made some wild claims in the _Lancet._ Yet much of the media willingly turned it into a story about brave doctors versus an unfeeling, non-listening establishment: no one forced this script on to their pages; they wrote it themselves.
+
+Similarly, PR played no role in Nick Davies’ own acceptance in the _Guardian_ in 1997 that there had been industrial levels of child abuse at a children’s care home in Bryn Estyn, Wales. Davies, in common with other journalists who have written misleading reports on the threat of widespread paedophilia to the fabric of British society, compared the alleged events at Bryn Estyn with the Holocaust, causing the High Court judge who oversaw a tribunal on the alleged events to condemn the _Guardian_’s ‘highly coloured reporting’.
+
+A more important factor than the terrier-like determination of PR companies (surely a case of dog bites man) has been the recent increase in the readiness of journalists to promote simplistic morality tales in place of news. As a result of the crisis in public life – the flattening out of political contestation and the decline in public _fora_ in recent years – the media have come to play an increasingly important role as a political agitator, even as a place where morality is defined. It plays this role largely by default (it is the collapse of the political realm that enables it), but it is a role that has been embraced with some relish by many journalists and editors. From the attack on politics for being too rowdy and party-oriented (when in fact it is neither of these things sufficiently) to the largely unquestioning promotion of anti-obesity, anti-climate change manifestoes and other such political agendas, the media have become the moral arbiters of the modern world. This development has been a more decisive and even more destructive phenomenon than the rise and rise of PR companies, helping to transform the media into a political-by-default entity and encouraging journalists to opt for simplicity over objectivity.
+
+**Overrating the Blogosphere**
+
+The blogosphere, too, is an unconvincing ‘despoiler’ of the traditional news industry. Indeed, if anything, today’s army of bloggers – many of whom merely pick apart or comment on mainstream media stories – can be seen as an unwitting creation of the newspaper industry itself. In their creeping acceptance that objectivity is problematic, and in undermining their own authority to communicate any Truth with a capital T, today’s media implicitly invite others to reanalyse and reassess everything they say. Sometimes the invitation is made explicit, for example when ‘users’ (formerly known as readers or viewers) are asked to comment on stories, contribute their own blogs, and add to the reporter’s perspective, as if the reporter’s perspective were just one of many varied-but-legitimate interpretations of events. Furthermore, those who celebrate this as the arrival of _inclusive_ news, have inadvertently introduced its less attractive twin, which goes by the name of _inconclusive_ news. In this climate, even aiming to be definitive is definitely out of favour.
+
+Journalism should be defended, of course; but sometimes from itself. Journalism plays a key role in society and public life, not only in reporting ‘cold hard facts’ but in giving them some objective, truthful meaning and context. It can, and should, inform, enlighten and enthuse the public. But in order for the importance of news reporting to be preserved, or rather rediscovered, contemporary journalism will need to reassess its priorities and re-establish its sense of purpose. And, ironically, journalists will need to become both more meek and more cocky than they are now, recognising that they are not the makers of morality, the devisers of political behaviour, or the shapers of people’s eating habits, waste-disposal antics and various other peccadilloes, but neither is the journalist’s account of events merely ‘another way of looking at the world’ or little better than the man in the street’s. Rather, journalists can play a unique role in informing our understanding and knowledge of the political and social worlds – if only they live up to this role instead of abdicating from the responsibility of playing it.
+
+Brendan O’Neill is editor of _spiked_ [www.spiked-online.com](http://www.spiked-online.com/)

@@ -1,0 +1,31 @@
+baseURL = 'https://markbeachill.github.io/site-proof-reading/'
+languageCode = 'en-us'
+title = 'Proof-Reading'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  mainSections = []
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about-proof"
+    name = "About Proof"
+    url = "/about-proof/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "contact-proof"
+    name = "Contact Proof"
+    url = "/contact-proof/"
+    weight = 40
+

@@ -1,0 +1,13 @@
+---
+title: "Objective and fair? Times have changed"
+---
+
+As reporters, we are constantly reminded to remain objective and impartial when reporting hard news or straight news stories. However there is a debate about this. Brenden O’Neil is against ‘journalism of attachments’ or in other words against journalists taking sides. He argues that “historically, the role of journalists in wars was to report what they saw and to report the facts” and that is purely what they should stick to. Martin bell on the other hand argues that in the past decades, objectivity has been dismissed not only as an ‘unachievable standard’ but also as an ‘undesirable norm’. Martin bell, a reporter for the BBC for over 30 year and a great journalist argues that “Journalists, have a new “moral obligation” to distinguish between “good” and “evil” in conflict zones, and if necessary to take sides.
+
+And I think that is the new changing face of journalism, not to simply echo what has happened but professionally distinguish between the good guys and the bad. Obviously it is our human nature to shift to the side we feel more empathetic with but good moral journalists will not just come to a conclusion based on their personal political agendas but come to a conclusion after witnessing and experiencing a number of aspects that will make them determine what side to take. Journalists “should ditch the pretence of neutrality and express an emotional “attachment” to the good guys in any given conflict” ( O’Neill 2012).
+
+Most times, when reporting on wars or conflicts, professionally we must represent both parties, with accurate facts and viewpoint from both sides, but we must remember that journalists are in search of the truth. And while objectivity and fairness are in some way important, a reporter should not let them get in the way of finding the truth. Let me give you an example: Let’s say you’re a reporter who has spent months on the grounds of Syria, among piles of dead bodies and decapitated human parts, you witness Assad murdering civilians every day with explosions and mass killings. Do you, in an effort to be objective, interview Assad or his representative and then interview a poor Syrian women who has lost all her family, to get both sides of the story? Of course not! I mean, it is evident that Assad is war criminal and pure evil and my duty here is to show the world what he is , whatever it takes.
+
+Journalists are the voice for the voiceless and therefore we must ensure we do our job properly and accordingly even if it means breaking a few rules.
+
+If objectivity is going to get in the way of humanity, then I’m sorry objective is definitely not what I’m going to be.
